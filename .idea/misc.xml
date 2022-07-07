@@ -4,9 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/HP/Documents/MyKotlin/MyMoviesApp/app/src/main/res/drawable/background.xml" value="0.119" />
+        <entry key="..\:/Users/HP/Documents/MyKotlin/MyMoviesApp/app/src/main/res/drawable/custom_button.xml" value="0.119" />
         <entry key="..\:/Users/HP/Documents/MyKotlin/MyMoviesApp/app/src/main/res/layout/activity_downloadpage.xml" value="0.1272644927536232" />
         <entry key="..\:/Users/HP/Documents/MyKotlin/MyMoviesApp/app/src/main/res/layout/activity_main.xml" value="0.1272644927536232" />
-        <entry key="..\:/Users/HP/Documents/MyKotlin/MyMoviesApp/app/src/main/res/layout/activity_movie_details.xml" value="0.1272644927536232" />
+        <entry key="..\:/Users/HP/Documents/MyKotlin/MyMoviesApp/app/src/main/res/layout/activity_movie_details.xml" value="0.16" />
         <entry key="..\:/Users/HP/Documents/MyKotlin/MyMoviesApp/app/src/main/res/layout/activity_moviesdisplay.xml" value="0.1272644927536232" />
         <entry key="..\:/Users/HP/Documents/MyKotlin/MyMoviesApp/app/src/main/res/layout/activity_splash.xml" value="0.1272644927536232" />
       </map>
